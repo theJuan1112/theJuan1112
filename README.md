@@ -9,8 +9,10 @@ I accomplish this by building AppSec programs, testing applications with DAST to
 
 <img align="right" alt="GIF" src="https://github.com/theJuan1112/thejuan1112/blob/main/coding.gif?raw=true" width="408" height="318" />
 
+### More about me
 - 📝 I regularly write about AppSec and other hacking topics on my [website](https://hackingjourney.com)
 - 🦉 I’m currently learning about how to secure open-source projects
 - 🤝 I’m looking to collaborate on doing security research in all kinds of topics ranging from AppSec to Malware analysis
-- 🚩 I constantly participate in CTFs either on platforms (TryHackMe & HackTheBox) or conferences' CTFs
+- 😎 I volunteer at conferences like DefCon, BSides, and other online Hacking communities
+- 🚩 I constantly participate in CTFs either on platforms (TryHackMe & HackTheBox) or conference's CTFs
 - 📫 Feel free to reach out on my social media and/or website
