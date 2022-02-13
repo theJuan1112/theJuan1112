@@ -29,7 +29,7 @@ I accomplish this by building AppSec programs, testing applications with DAST to
   <code><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="45" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"></code>
+<code><img height="45" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg"></code>
 <code><img height="45" src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4"></code>
 <code><img height="45" src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4"></code>
