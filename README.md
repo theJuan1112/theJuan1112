@@ -33,5 +33,7 @@ I accomplish this by building AppSec programs, testing applications with DAST to
 <code><img height="45" src="https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg"></code>
 <code><img height="45" src="https://avatars.githubusercontent.com/u/6716868?s=200&v=4"></code>
 <code><img height="45" src="https://avatars.githubusercontent.com/u/13749115?s=200&v=4"></code>
-
 </div>
+
+### Support My Research and Efforts on Securing Open-Source Software:
+[![Paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=YU5ACUKXYBN3C)
