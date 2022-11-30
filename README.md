@@ -6,9 +6,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://hackingjourney.com)
 </div>
 
-I am an Application Security Consultant. My main passion is supporting businesses and developers in creating and maintaining the most secure and robust software they can build.
+I am an Application/Product Security Professional. My main passion is supporting businesses and developers in creating and maintaining the most secure and robust software they can build.
 
-I accomplish this by building AppSec programs, testing applications with DAST tools (ZAP/Burp), and doing code reviews with SAST tools (Semgrep).
+I accomplish this by building AppSec programs, testing applications with DAST tools (ZAP/Burp), and doing code reviews manually and with SAST tools (Semgrep/SonarQube).
 
 <img align="right" alt="GIF" src="https://github.com/theJuan1112/thejuan1112/blob/main/coding.gif?raw=true" width="408" height="318" />
 
